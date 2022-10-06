@@ -15,3 +15,6 @@ The heat map displayed areas of intensity of Meningitis in states in Nigeria. Be
 The home page of the report containing information on mortality. Age group and serotype. While the detail or location page contains information about the states in Nigeria with degree of meningitis cases and further to show the confirmation report on the cases reported.
 
 DISCLAIMER: I still doubt the credibility of the data and will encourage agencies and government to push for better documentation of health activities in Nigeria in the open space.
+
+
+The link to the dashboard: https://app.powerbi.com/links/jSFsKlT0IM?ctid=e407ea62-47d6-4da9-8358-32de006db788&pbi_source=linkShare
